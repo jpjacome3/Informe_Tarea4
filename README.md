@@ -26,8 +26,7 @@
  ## 2. MARCO TEÓRICO 
  
 
-![png (8)](https://user-images.githubusercontent.com/85137954/125520526-681468f9-374e-4839-a7d1-9a154df66082.png)
-
+![png (9)](https://user-images.githubusercontent.com/85137954/125520694-2e7aeaa5-b805-47dd-85c0-2f57ab340656.png)
 
  
  ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
