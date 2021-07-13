@@ -1,4 +1,3 @@
-![png (10)](https://user-images.githubusercontent.com/85137954/125537918-aceba75e-6347-4cdd-8d73-217ab15787c4.png)
 # Informe_Tarea4
 **Integrantes:**
 - Jordy Coyaguillo
