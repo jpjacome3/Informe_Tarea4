@@ -101,7 +101,17 @@
 
 ## 5. CONCLUSIONES
 
+-Podemos concluir que gracias a las fuentes de corriente podemos facilitar el circuito aplicando varios metodos de transformacion, como transformar a una fuente de corriente en fuente de voltaje si esta se encuentre en paralelo con una resistencia, manteniendo la resistencia constante.
 
 
 ## 6. BIBLIOGRAFIA
+
+-Boylestad, R. (2011). Introducción al análisis de circuitos. México: Pearson Education
+
+-Gutiérrez, A., Ortega, J., Parra, V., & Pérez, Á. (2014). Circuitos eléctricos. Madrid: Universidad Nacional de Educación a Distancia.
+
+-Pérez Tirado, Á. (2010). Manual de electrónica básica. Colombia: Editorial Universidad del Atlántico.
+
+-Robbins, A., & Miller, W. (2013). Circuit analysis:Theory and practice. USA.
+
 
