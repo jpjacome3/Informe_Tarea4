@@ -33,6 +33,11 @@
 
 ![image](https://user-images.githubusercontent.com/85137954/125568575-352a651e-5e1d-4086-bfe2-bfa36443bb96.png)
 
+![nodos](https://user-images.githubusercontent.com/84586968/125584888-2005881c-63ce-4e1f-8559-c24487821760.png)
+
+![malla](https://user-images.githubusercontent.com/84586968/125584891-e25e53aa-1ad8-400d-b907-4e7257c5128a.png)
+
+
 ![image](https://user-images.githubusercontent.com/85137954/125565314-e0ab15f6-546d-43fc-bc11-21679ce99930.png)
 ![image](https://user-images.githubusercontent.com/85137954/125571280-755a0f9d-a16b-44d1-835e-689d70c950a5.png)
 
