@@ -35,24 +35,9 @@
  
  **CAPITULO 7**
  
- 28. Repita el problema 27 usando un resistor de carga RL=30 kΩ.
-Ejercicio.- . Vea el circuito de la figura 7-69
-
- a.  Determine el intervalo de voltajes que aparecerán en R_L a medida que el potenciómetro varíe entre sus valores mínimo y máximo. 
-
-b. Si R_2 se ajusta para tener 2.5 kΩ ¿cuál será el voltaje V_L? Si se remueve el resistor de carga ¿qué voltaje aparecerá entre las terminales a y b?
-
-![image](https://user-images.githubusercontent.com/85137954/125555670-f14d0a38-9af2-4efb-a634-955278d27420.png)
-
-       a)  V_Lmin=0[V]              
-     V_Lmax:  
-Realizo R_eq=(10*30)/(10+30)=7.5kΩ
-Realizo mi circuito en serie:  V=I*R →   36=I(20+7.5)
-I=36/27.5kΩ=1.30[mA]
-V_Lmax=7.5*1.30=9.82[V]
-Intervalo:0[V]→9.82[V]
-b)  V_L:  Realizo R_eq=(2.5*30)/(2.5+30)=2.31kΩ    →   V_L=(2.31)(1.30)=3.003[V] 
-Terminales a-b:  V_ab=(7.5)(1.30)=9.75[V]
+ ![image](https://user-images.githubusercontent.com/85137954/125556457-cb86910e-8a25-4c8b-808a-3b8ef2a4c265.png)
+ 
+ ![image](https://user-images.githubusercontent.com/85137954/125556363-f3806355-7382-4768-a67c-dc31c94da9c9.png)
 
  
 
