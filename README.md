@@ -11,7 +11,7 @@
  
  **Docente:** Ing. Darwin Alulema.
  
- **Tema:** Capitulo 7 ( ) y Capitulo 8 ( )
+ **Tema:** Capitulo 7 y Capitulo 8 
  
  ## 1. OBJETIVO GENERAL
  
@@ -68,8 +68,6 @@
 ![WhatsApp Image 2021-07-13 at 23 39 29](https://user-images.githubusercontent.com/85137954/125562466-cb89938e-6a84-48db-8f98-5c2a1ecd5932.jpeg)
  
 ![WhatsApp Image 2021-07-13 at 23 39 55](https://user-images.githubusercontent.com/85137954/125562477-74ef74b0-e73a-450a-82c8-b274c0615531.jpeg)
- 
- 
  
  ![image](https://user-images.githubusercontent.com/85137954/125556457-cb86910e-8a25-4c8b-808a-3b8ef2a4c265.png)
  
