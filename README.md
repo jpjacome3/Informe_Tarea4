@@ -20,6 +20,8 @@
 
  ## 1.2 OBJETIVOS ESPECÍFICOS
  
+-Identificar una funete de corriente para asi entender su funcionalidad, el aporte que otorga esta al circuito y tener claro que las fuentes de corrientes estables son fuentes ideales.
+
 
 
 
