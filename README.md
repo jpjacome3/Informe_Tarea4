@@ -100,6 +100,8 @@
 
  **CAPITULO 8**
  
+ ![image](https://user-images.githubusercontent.com/85137954/125619937-98775f16-2d41-484f-9f50-e1e6c071a38f.png)
+ 
  ![image](https://user-images.githubusercontent.com/85137954/125619160-80d97556-62af-407f-80ce-e1bfdd92e8d7.png)
  
  ![image](https://user-images.githubusercontent.com/85137954/125617073-8d343ebf-ba95-4b55-be55-472adf55309e.png)
