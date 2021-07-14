@@ -34,6 +34,8 @@
 ![image](https://user-images.githubusercontent.com/85137954/125568575-352a651e-5e1d-4086-bfe2-bfa36443bb96.png)
 
 ![image](https://user-images.githubusercontent.com/85137954/125565314-e0ab15f6-546d-43fc-bc11-21679ce99930.png)
+![image](https://user-images.githubusercontent.com/85137954/125571280-755a0f9d-a16b-44d1-835e-689d70c950a5.png)
+
 
 
  
@@ -92,7 +94,16 @@
 
  **CAPITULO 8**
  
- 
+ ![image](https://user-images.githubusercontent.com/85137954/125571323-f91362c7-5856-4982-8955-2036c4666459.png)
+![image](https://user-images.githubusercontent.com/85137954/125571351-eebf9476-3bbc-446f-a591-283129e4ccd1.png)
+![image](https://user-images.githubusercontent.com/85137954/125571386-5810f4ae-7e33-40cd-bb77-767bf0344b50.png)
+![image](https://user-images.githubusercontent.com/85137954/125571445-02e4e651-a671-4a38-be82-b40fed4c2ad5.png)
+![image](https://user-images.githubusercontent.com/85137954/125571471-ed4fccf1-8d88-459b-8ed9-4efe8d96179f.png)
+![image](https://user-images.githubusercontent.com/85137954/125571492-9c893540-6bd4-4991-b0a8-2d87a846d860.png)
+![image](https://user-images.githubusercontent.com/85137954/125571510-5ed59ef4-9e7f-4a1e-bd48-3986033d7d1e.png)
+![image](https://user-images.githubusercontent.com/85137954/125571524-987d36f0-f432-47b6-a810-6dbcae836ced.png)
+![image](https://user-images.githubusercontent.com/85137954/125571608-d47c3d2d-5431-45c4-b927-6e0310a39a68.png)
+
 
 
 ## 4. VIDEO
