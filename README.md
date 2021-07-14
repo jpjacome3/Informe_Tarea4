@@ -15,15 +15,14 @@
  
  ## 1. OBJETIVO GENERAL
  
-
+-Comprender y analizar los circuitos electricos serie-pararelos y sus metodos.
 
 
  ## 1.2 OBJETIVOS ESPECÍFICOS
  
 -Identificar una funete de corriente para asi entender su funcionalidad, el aporte que otorga esta al circuito y tener claro que las fuentes de corrientes estables son fuentes ideales.
-
-
-
+-Realizar las estrategias  para resolver circuitos serie y a la vez en paralelo.
+-Investigar sobre los metodos de analisis de malla,nodo y ramas para resolver los ejercicios propuestos.
 
  ## 2. MARCO TEÓRICO 
  
@@ -146,6 +145,7 @@
 ## 5. CONCLUSIONES
 
 -Podemos concluir que gracias a las fuentes de corriente podemos facilitar el circuito aplicando varios metodos de transformacion, como transformar a una fuente de corriente en fuente de voltaje si esta se encuentre en paralelo con una resistencia, manteniendo la resistencia constante.
+-Llegamos a la idea de que si elegimos el metodo correcto podemos  simplificar ejercicios complejos mediante un previo analisis del circuito.
 
 
 ## 6. BIBLIOGRAFIA
