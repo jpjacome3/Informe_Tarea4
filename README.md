@@ -158,4 +158,6 @@
 
 -Robbins, A., & Miller, W. (2013). Circuit analysis:Theory and practice. USA.
 
+Salazar, A. (2014). ANÁLISIS POR NODOS Y MALLAS. Wwwprof.uniandes.edu.co. Recuperado el 17 Junio 2021, de http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf.
+
 
