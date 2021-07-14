@@ -15,16 +15,16 @@
  
  ## 1. OBJETIVO GENERAL
  
--Comprender y analizar los circuitos electricos serie-pararelos y sus metodos.
+- Comprender y analizar los circuitos electricos serie-pararelos y sus metodos.
 
 
  ## 1.2 OBJETIVOS ESPECÍFICOS
  
--Identificar una funete de corriente para asi entender su funcionalidad, el aporte que otorga esta al circuito y tener claro que las fuentes de corrientes estables son fuentes ideales.
+- Identificar una funete de corriente para asi entender su funcionalidad, el aporte que otorga esta al circuito y tener claro que las fuentes de corrientes estables son fuentes ideales.
 
--Realizar las estrategias  para resolver circuitos serie y a la vez en paralelo.
+- Realizar las estrategias  para resolver circuitos serie y a la vez en paralelo.
 
--Investigar sobre los metodos de analisis de malla,nodo y ramas para resolver los ejercicios propuestos.
+- Investigar sobre los metodos de analisis de malla,nodo y ramas para resolver los ejercicios propuestos.
 
  ## 2. MARCO TEÓRICO 
  
@@ -152,21 +152,21 @@ https://youtu.be/0ZAZvC51Trw
 
 ## 5. CONCLUSIONES
 
--Podemos concluir que gracias a las fuentes de corriente podemos facilitar el circuito aplicando varios metodos de transformacion, como transformar a una fuente de corriente en fuente de voltaje si esta se encuentre en paralelo con una resistencia, manteniendo la resistencia constante.
+- Podemos concluir que gracias a las fuentes de corriente podemos facilitar el circuito aplicando varios metodos de transformacion, como transformar a una fuente de corriente en fuente de voltaje si esta se encuentre en paralelo con una resistencia, manteniendo la resistencia constante.
 
--Llegamos a la idea de que si elegimos el metodo correcto podemos  simplificar ejercicios complejos mediante un previo analisis del circuito.
+- Llegamos a la idea de que si elegimos el metodo correcto podemos  simplificar ejercicios complejos mediante un previo analisis del circuito.
 
 
 ## 6. BIBLIOGRAFIA
 
--Boylestad, R. (2011). Introducción al análisis de circuitos. México: Pearson Education
+- Boylestad, R. (2011). Introducción al análisis de circuitos. México: Pearson Education
 
--Gutiérrez, A., Ortega, J., Parra, V., & Pérez, Á. (2014). Circuitos eléctricos. Madrid: Universidad Nacional de Educación a Distancia.
+- Gutiérrez, A., Ortega, J., Parra, V., & Pérez, Á. (2014). Circuitos eléctricos. Madrid: Universidad Nacional de Educación a Distancia.
 
--Pérez Tirado, Á. (2010). Manual de electrónica básica. Colombia: Editorial Universidad del Atlántico.
+- Pérez Tirado, Á. (2010). Manual de electrónica básica. Colombia: Editorial Universidad del Atlántico.
 
--Robbins, A., & Miller, W. (2013). Circuit analysis:Theory and practice. USA.
+- Robbins, A., & Miller, W. (2013). Circuit analysis:Theory and practice. USA.
 
-Salazar, A. (2014). ANÁLISIS POR NODOS Y MALLAS. Wwwprof.uniandes.edu.co. Recuperado el 17 Junio 2021, de http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf.
+- Salazar, A. (2014). ANÁLISIS POR NODOS Y MALLAS. Wwwprof.uniandes.edu.co. Recuperado el 17 Junio 2021, de http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf.
 
 
