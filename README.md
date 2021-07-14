@@ -93,6 +93,17 @@
 
 
  **CAPITULO 8**
+ ![8](https://user-images.githubusercontent.com/84586968/125583779-f44472fd-288d-4d1a-b137-eafa7c83723c.PNG)
+![10,12](https://user-images.githubusercontent.com/84586968/125583787-0ba42ad3-982d-408d-a441-5c98ddee43f5.PNG)
+![14](https://user-images.githubusercontent.com/84586968/125583794-69a373df-9c1b-4458-a7c2-f290740d2e86.PNG)
+![16](https://user-images.githubusercontent.com/84586968/125583798-416cfadc-aa69-42f0-be85-b56f9116612c.PNG)
+![18](https://user-images.githubusercontent.com/84586968/125583812-c54a332c-235c-4eb1-a02c-a4b385c6ff73.PNG)
+![20](https://user-images.githubusercontent.com/84586968/125583817-6d6e7c6b-9572-4ce6-8d40-a69c1f7ac5d9.PNG)
+![22](https://user-images.githubusercontent.com/84586968/125583848-dd2cdf6d-d974-4c76-ac51-22f7ef8919f0.PNG)
+![24](https://user-images.githubusercontent.com/84586968/125583854-91bbb89d-4d1f-4962-ac0a-57a4b8e84ee5.PNG)
+![26](https://user-images.githubusercontent.com/84586968/125583858-cb7b3d60-6ff1-4bdc-86e2-4e284139d11b.PNG)
+![28](https://user-images.githubusercontent.com/84586968/125583864-148b8990-9262-4071-a717-8a83902f9348.PNG)
+![30](https://user-images.githubusercontent.com/84586968/125583869-962bb10d-dfa2-410b-bd35-cc593f6c971a.PNG)
  
  ![image](https://user-images.githubusercontent.com/85137954/125571323-f91362c7-5856-4982-8955-2036c4666459.png)
 ![image](https://user-images.githubusercontent.com/85137954/125571351-eebf9476-3bbc-446f-a591-283129e4ccd1.png)
